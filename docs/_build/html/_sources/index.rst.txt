@@ -10,7 +10,7 @@ Using a Turtlebot3 for SLAM and object detection
    :maxdepth: 2
    :caption: Contents:
 
-`Turtlebot detect slam <https://github.com/u-t-autonomous/turtlebot-detect-slam/>`_ is a ROS package designed for use with a `Turtlebot3 Waffle Pi <https://www.robotis.us/turtlebot-3-waffle-pi/>`_. The package utilizes the Turtlebot's camera and lidar sensor to associate lidar points with objects detected by the camera. This data is then processed to form a local map of the objects. Developed for research done by UT Austin's `Autonomous Systems Group <https://www.oden.utexas.edu/research/centers-groups/asg/>`_.
+`Turtlebot detect slam <https://github.com/u-t-autonomous/turtlebot-detect-slam/>`_ is a ROS package designed for use with a `Turtlebot3 Waffle Pi <https://www.robotis.us/turtlebot-3-waffle-pi/>`_. The package utilizes the Turtlebot's camera and lidar sensor to associate lidar points with objects detected by the camera. This data is then processed to form a local map of the objects. Developed for research done by UT Austin's `Autonomous Systems Group <https://www.oden.utexas.edu/research/centers-groups/asg/>`_. This guide also contains instructions for running the package in a `Gazebo <http://gazebosim.org>`_ world.
 
 .. image:: _static/_images/bevoDemo.png
     
